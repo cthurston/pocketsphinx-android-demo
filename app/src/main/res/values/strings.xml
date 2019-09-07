@@ -2,10 +2,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="app_name">PocketSphinx Demo</string>
-    
-    <string name="kws_caption">To start demonstration say \"oh mighty computer\".</string>
-    <string name="menu_caption">Say \"digits\", \"forecast\" or \"phones\" to choose the grammar, language model or phonetic decoder example.</string>
+
+    <string name="kws_caption">To start demonstration say \"flag football\".</string>
+    <string name="menu_caption">Play has started call next action.</string>
     <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
+    <string name="play_caption">Plays: say something like \"by-twenty-three\".</string>
     <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
     <string name="phone_caption">To try phonetic recognition say anything.</string>
+    <string name="fumbled_caption">Fumbled.</string>
+    <string name="handoff_caption">Hand off.</string>
+    <string name="kick_caption">Kick.</string>
+    <string name="pass_caption">Pass.</string>
+    <string name="penalty_caption">Penalty.</string>
+    <string name="pitch_caption">Pitch.</string>
+    <string name="punt_caption">Punt.</string>
+    <string name="run_caption">Run.</string>
+    <string name="sacked_caption">Sacked.</string>
+    <string name="numbers_caption">To number.</string>
 </resources>

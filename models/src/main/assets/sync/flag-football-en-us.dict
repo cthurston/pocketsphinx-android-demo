@@ -1,0 +1,1273 @@
+sportdev S P AO R T D EH V
+flag F L AE G
+phones F OW N Z
+forecast F AO R K AE S T
+football F UH T B AO L
+digits D IH JH AH T S
+wakeup D IH JH AH T S
+s D IH JH AH T S
+oh OW
+to-number T UW N AH M B ER
+zero Z IH R OW
+one W AH N
+two T UW
+three TH R IY
+four F AO R
+five F AY V
+six S IH K S
+seven S EH V AH N
+eight EY T
+nine N AY N
+ten T EH N
+eleven IH L EH V AH N
+twelve T W EH L V
+thirteen TH ER T IY N
+fourteen F AO R T IY N
+fifteen F IH F T IY N
+sixteen S IH K S T IY N
+seventeen S EH V AH N T IY N
+eighteen EY T IY N
+nineteen N AY N T IY N
+twenty T W EH N T IY
+by-zero B AY Z IH R OW
+by-number-zero B AY N AH M B ER Z IH R OW
+by-one B AY W AH N
+by-number-one B AY N AH M B ER W AH N
+by-two B AY T UW
+by-number-two B AY N AH M B ER T UW
+by-three B AY TH R IY
+by-number-three B AY N AH M B ER TH R IY
+by-four B AY F AO R
+by-number-four B AY N AH M B ER F AO R
+by-five B AY F AY V
+by-number-five B AY N AH M B ER F AY V
+by-six B AY S IH K S
+by-number-six B AY N AH M B ER S IH K S
+by-seven B AY S EH V AH N
+by-number-seven B AY N AH M B ER S EH V AH N
+by-eight B AY EY T
+by-number-eight B AY N AH M B ER EY T
+by-nine B AY N AY N
+by-number-nine B AY N AH M B ER N AY N
+by-ten B AY T EH N
+by-number-ten B AY N AH M B ER T EH N
+by-eleven B AY IH L EH V AH N
+by-number-eleven B AY N AH M B ER IH L EH V AH N
+by-twelve B AY T W EH L V
+by-number-twelve B AY N AH M B ER T W EH L V
+by-thirteen B AY TH ER T IY N
+by-number-thirteen B AY N AH M B ER TH ER T IY N
+by-fourteen B AY F AO R T IY N
+by-number-fourteen B AY N AH M B ER F AO R T IY N
+by-fifteen B AY F IH F T IY N
+by-number-fifteen B AY N AH M B ER F IH F T IY N
+by-sixteen B AY S IH K S T IY N
+by-number-sixteen B AY N AH M B ER S IH K S T IY N
+by-seventeen B AY S EH V AH N T IY N
+by-number-seventeen B AY N AH M B ER S EH V AH N T IY N
+by-eighteen B AY EY T IY N
+by-number-eighteen B AY N AH M B ER EY T IY N
+by-nineteen B AY N AY N T IY N
+by-number-nineteen B AY N AH M B ER N AY N T IY N
+by-twenty B AY T W EH N T IY
+by-number-twenty B AY N AH M B ER T W EH N T IY
+by-twenty-one B AY T W EH N T IY W AH N
+by-number-twenty-one B AY N AH M B ER T W EH N T IY W AH N
+by-twenty-two B AY T W EH N T IY T UW
+by-number-twenty-two B AY N AH M B ER T W EH N T IY T UW
+by-twenty-three B AY T W EH N T IY TH R IY
+by-number-twenty-three B AY N AH M B ER T W EH N T IY TH R IY
+by-twenty-four B AY T W EH N T IY F AO R
+by-number-twenty-four B AY N AH M B ER T W EH N T IY F AO R
+by-twenty-five B AY T W EH N T IY F AY V
+by-number-twenty-five B AY N AH M B ER T W EH N T IY F AY V
+by-twenty-six B AY T W EH N T IY S IH K S
+by-number-twenty-six B AY N AH M B ER T W EH N T IY S IH K S
+by-twenty-seven B AY T W EH N T IY S EH V AH N
+by-number-twenty-seven B AY N AH M B ER T W EH N T IY S EH V AH N
+by-twenty-eight B AY T W EH N T IY EY T
+by-number-twenty-eight B AY N AH M B ER T W EH N T IY EY T
+by-twenty-nine B AY T W EH N T IY N AY N
+by-number-twenty-nine B AY N AH M B ER T W EH N T IY N AY N
+by-thirty B AY TH ER D IY
+by-number-thirty B AY N AH M B ER TH ER D IY
+by-thirty-one B AY TH ER D IY W AH N
+by-number-thirty-one B AY N AH M B ER TH ER D IY W AH N
+by-thirty-two B AY TH ER D IY T UW
+by-number-thirty-two B AY N AH M B ER TH ER D IY T UW
+by-thirty-three B AY TH ER D IY TH R IY
+by-number-thirty-three B AY N AH M B ER TH ER D IY TH R IY
+by-thirty-four B AY TH ER D IY F AO R
+by-number-thirty-four B AY N AH M B ER TH ER D IY F AO R
+by-thirty-five B AY TH ER D IY F AY V
+by-number-thirty-five B AY N AH M B ER TH ER D IY F AY V
+by-thirty-six B AY TH ER D IY S IH K S
+by-number-thirty-six B AY N AH M B ER TH ER D IY S IH K S
+by-thirty-seven B AY TH ER D IY S EH V AH N
+by-number-thirty-seven B AY N AH M B ER TH ER D IY S EH V AH N
+by-thirty-eight B AY TH ER D IY EY T
+by-number-thirty-eight B AY N AH M B ER TH ER D IY EY T
+by-thirty-nine B AY TH ER D IY N AY N
+by-number-thirty-nine B AY N AH M B ER TH ER D IY N AY N
+by-forty B AY F AO R T IY
+by-number-forty B AY N AH M B ER F AO R T IY
+by-forty-one B AY F AO R T IY W AH N
+by-number-forty-one B AY N AH M B ER F AO R T IY W AH N
+by-forty-two B AY F AO R T IY T UW
+by-number-forty-two B AY N AH M B ER F AO R T IY T UW
+by-forty-three B AY F AO R T IY TH R IY
+by-number-forty-three B AY N AH M B ER F AO R T IY TH R IY
+by-forty-four B AY F AO R T IY F AO R
+by-number-forty-four B AY N AH M B ER F AO R T IY F AO R
+by-forty-five B AY F AO R T IY F AY V
+by-number-forty-five B AY N AH M B ER F AO R T IY F AY V
+by-forty-six B AY F AO R T IY S IH K S
+by-number-forty-six B AY N AH M B ER F AO R T IY S IH K S
+by-forty-seven B AY F AO R T IY S EH V AH N
+by-number-forty-seven B AY N AH M B ER F AO R T IY S EH V AH N
+by-forty-eight B AY F AO R T IY EY T
+by-number-forty-eight B AY N AH M B ER F AO R T IY EY T
+by-forty-nine B AY F AO R T IY N AY N
+by-number-forty-nine B AY N AH M B ER F AO R T IY N AY N
+by-fifty B AY F IH F T IY
+by-number-fifty B AY N AH M B ER F IH F T IY
+by-fifty-one B AY F IH F T IY W AH N
+by-number-fifty-one B AY N AH M B ER F IH F T IY W AH N
+by-fifty-two B AY F IH F T IY T UW
+by-number-fifty-two B AY N AH M B ER F IH F T IY T UW
+by-fifty-three B AY F IH F T IY TH R IY
+by-number-fifty-three B AY N AH M B ER F IH F T IY TH R IY
+by-fifty-four B AY F IH F T IY F AO R
+by-number-fifty-four B AY N AH M B ER F IH F T IY F AO R
+by-fifty-five B AY F IH F T IY F AY V
+by-number-fifty-five B AY N AH M B ER F IH F T IY F AY V
+by-fifty-six B AY F IH F T IY S IH K S
+by-number-fifty-six B AY N AH M B ER F IH F T IY S IH K S
+by-fifty-seven B AY F IH F T IY S EH V AH N
+by-number-fifty-seven B AY N AH M B ER F IH F T IY S EH V AH N
+by-fifty-eight B AY F IH F T IY EY T
+by-number-fifty-eight B AY N AH M B ER F IH F T IY EY T
+by-fifty-nine B AY F IH F T IY N AY N
+by-number-fifty-nine B AY N AH M B ER F IH F T IY N AY N
+by-sixty B AY S IH K S T IY
+by-number-sixty B AY N AH M B ER S IH K S T IY
+by-sixty-one B AY S IH K S T IY W AH N
+by-number-sixty-one B AY N AH M B ER S IH K S T IY W AH N
+by-sixty-two B AY S IH K S T IY T UW
+by-number-sixty-two B AY N AH M B ER S IH K S T IY T UW
+by-sixty-three B AY S IH K S T IY TH R IY
+by-number-sixty-three B AY N AH M B ER S IH K S T IY TH R IY
+by-sixty-four B AY S IH K S T IY F AO R
+by-number-sixty-four B AY N AH M B ER S IH K S T IY F AO R
+by-sixty-five B AY S IH K S T IY F AY V
+by-number-sixty-five B AY N AH M B ER S IH K S T IY F AY V
+by-sixty-six B AY S IH K S T IY S IH K S
+by-number-sixty-six B AY N AH M B ER S IH K S T IY S IH K S
+by-sixty-seven B AY S IH K S T IY S EH V AH N
+by-number-sixty-seven B AY N AH M B ER S IH K S T IY S EH V AH N
+by-sixty-eight B AY S IH K S T IY EY T
+by-number-sixty-eight B AY N AH M B ER S IH K S T IY EY T
+by-sixty-nine B AY S IH K S T IY N AY N
+by-number-sixty-nine B AY N AH M B ER S IH K S T IY N AY N
+by-seventy B AY S EH V AH N T IY
+by-number-seventy B AY N AH M B ER S EH V AH N T IY
+by-seventy-one B AY S EH V AH N T IY W AH N
+by-number-seventy-one B AY N AH M B ER S EH V AH N T IY W AH N
+by-seventy-two B AY S EH V AH N T IY T UW
+by-number-seventy-two B AY N AH M B ER S EH V AH N T IY T UW
+by-seventy-three B AY S EH V AH N T IY TH R IY
+by-number-seventy-three B AY N AH M B ER S EH V AH N T IY TH R IY
+by-seventy-four B AY S EH V AH N T IY F AO R
+by-number-seventy-four B AY N AH M B ER S EH V AH N T IY F AO R
+by-seventy-five B AY S EH V AH N T IY F AY V
+by-number-seventy-five B AY N AH M B ER S EH V AH N T IY F AY V
+by-seventy-six B AY S EH V AH N T IY S IH K S
+by-number-seventy-six B AY N AH M B ER S EH V AH N T IY S IH K S
+by-seventy-seven B AY S EH V AH N T IY S EH V AH N
+by-number-seventy-seven B AY N AH M B ER S EH V AH N T IY S EH V AH N
+by-seventy-eight B AY S EH V AH N T IY EY T
+by-number-seventy-eight B AY N AH M B ER S EH V AH N T IY EY T
+by-seventy-nine B AY S EH V AH N T IY N AY N
+by-number-seventy-nine B AY N AH M B ER S EH V AH N T IY N AY N
+by-eighty B AY EY T IY
+by-number-eighty B AY N AH M B ER EY T IY
+by-eighty-one B AY EY T IY W AH N
+by-number-eighty-one B AY N AH M B ER EY T IY W AH N
+by-eighty-two B AY EY T IY T UW
+by-number-eighty-two B AY N AH M B ER EY T IY T UW
+by-eighty-three B AY EY T IY TH R IY
+by-number-eighty-three B AY N AH M B ER EY T IY TH R IY
+by-eighty-four B AY EY T IY F AO R
+by-number-eighty-four B AY N AH M B ER EY T IY F AO R
+by-eighty-five B AY EY T IY F AY V
+by-number-eighty-five B AY N AH M B ER EY T IY F AY V
+by-eighty-six B AY EY T IY S IH K S
+by-number-eighty-six B AY N AH M B ER EY T IY S IH K S
+by-eighty-seven B AY EY T IY S EH V AH N
+by-number-eighty-seven B AY N AH M B ER EY T IY S EH V AH N
+by-eighty-eight B AY EY T IY EY T
+by-number-eighty-eight B AY N AH M B ER EY T IY EY T
+by-eighty-nine B AY EY T IY N AY N
+by-number-eighty-nine B AY N AH M B ER EY T IY N AY N
+by-ninety B AY N AY N T IY
+by-number-ninety B AY N AH M B ER N AY N T IY
+by-ninety-one B AY N AY N T IY W AH N
+by-number-ninety-one B AY N AH M B ER N AY N T IY W AH N
+by-ninety-two B AY N AY N T IY T UW
+by-number-ninety-two B AY N AH M B ER N AY N T IY T UW
+by-ninety-three B AY N AY N T IY TH R IY
+by-number-ninety-three B AY N AH M B ER N AY N T IY TH R IY
+by-ninety-four B AY N AY N T IY F AO R
+by-number-ninety-four B AY N AH M B ER N AY N T IY F AO R
+by-ninety-five B AY N AY N T IY F AY V
+by-number-ninety-five B AY N AH M B ER N AY N T IY F AY V
+by-ninety-six B AY N AY N T IY S IH K S
+by-number-ninety-six B AY N AH M B ER N AY N T IY S IH K S
+by-ninety-seven B AY N AY N T IY S EH V AH N
+by-number-ninety-seven B AY N AH M B ER N AY N T IY S EH V AH N
+by-ninety-eight B AY N AY N T IY EY T
+by-number-ninety-eight B AY N AH M B ER N AY N T IY EY T
+by-ninety-nine B AY N AY N T IY N AY N
+by-number-ninety-nine B AY N AH M B ER N AY N T IY N AY N
+by-double-zero B AY D AH B AH L Z IH R OW
+by-number-double-zero B AY N AH M B ER D AH B AH L Z IH R OW
+to-zero T UW Z IH R OW
+to-number-zero T UW N AH M B ER Z IH R OW
+to-one T UW W AH N
+to-number-one T UW N AH M B ER W AH N
+to-two T UW T UW
+to-number-two T UW N AH M B ER T UW
+to-three T UW TH R IY
+to-number-three T UW N AH M B ER TH R IY
+to-four T UW F AO R
+to-number-four T UW N AH M B ER F AO R
+to-five T UW F AY V
+to-number-five T UW N AH M B ER F AY V
+to-six T UW S IH K S
+to-number-six T UW N AH M B ER S IH K S
+to-seven T UW S EH V AH N
+to-number-seven T UW N AH M B ER S EH V AH N
+to-eight T UW EY T
+to-number-eight T UW N AH M B ER EY T
+to-nine T UW N AY N
+to-number-nine T UW N AH M B ER N AY N
+to-ten T UW T EH N
+to-number-ten T UW N AH M B ER T EH N
+to-eleven T UW IH L EH V AH N
+to-number-eleven T UW N AH M B ER IH L EH V AH N
+to-twelve T UW T W EH L V
+to-number-twelve T UW N AH M B ER T W EH L V
+to-thirteen T UW TH ER T IY N
+to-number-thirteen T UW N AH M B ER TH ER T IY N
+to-fourteen T UW F AO R T IY N
+to-number-fourteen T UW N AH M B ER F AO R T IY N
+to-fifteen T UW F IH F T IY N
+to-number-fifteen T UW N AH M B ER F IH F T IY N
+to-sixteen T UW S IH K S T IY N
+to-number-sixteen T UW N AH M B ER S IH K S T IY N
+to-seventeen T UW S EH V AH N T IY N
+to-number-seventeen T UW N AH M B ER S EH V AH N T IY N
+to-eighteen T UW EY T IY N
+to-number-eighteen T UW N AH M B ER EY T IY N
+to-nineteen T UW N AY N T IY N
+to-number-nineteen T UW N AH M B ER N AY N T IY N
+to-twenty T UW T W EH N T IY
+to-number-twenty T UW N AH M B ER T W EH N T IY
+to-twenty-one T UW T W EH N T IY W AH N
+to-number-twenty-one T UW N AH M B ER T W EH N T IY W AH N
+to-twenty-two T UW T W EH N T IY T UW
+to-number-twenty-two T UW N AH M B ER T W EH N T IY T UW
+to-twenty-three T UW T W EH N T IY TH R IY
+to-number-twenty-three T UW N AH M B ER T W EH N T IY TH R IY
+to-twenty-four T UW T W EH N T IY F AO R
+to-number-twenty-four T UW N AH M B ER T W EH N T IY F AO R
+to-twenty-five T UW T W EH N T IY F AY V
+to-number-twenty-five T UW N AH M B ER T W EH N T IY F AY V
+to-twenty-six T UW T W EH N T IY S IH K S
+to-number-twenty-six T UW N AH M B ER T W EH N T IY S IH K S
+to-twenty-seven T UW T W EH N T IY S EH V AH N
+to-number-twenty-seven T UW N AH M B ER T W EH N T IY S EH V AH N
+to-twenty-eight T UW T W EH N T IY EY T
+to-number-twenty-eight T UW N AH M B ER T W EH N T IY EY T
+to-twenty-nine T UW T W EH N T IY N AY N
+to-number-twenty-nine T UW N AH M B ER T W EH N T IY N AY N
+to-thirty T UW TH ER D IY
+to-number-thirty T UW N AH M B ER TH ER D IY
+to-thirty-one T UW TH ER D IY W AH N
+to-number-thirty-one T UW N AH M B ER TH ER D IY W AH N
+to-thirty-two T UW TH ER D IY T UW
+to-number-thirty-two T UW N AH M B ER TH ER D IY T UW
+to-thirty-three T UW TH ER D IY TH R IY
+to-number-thirty-three T UW N AH M B ER TH ER D IY TH R IY
+to-thirty-four T UW TH ER D IY F AO R
+to-number-thirty-four T UW N AH M B ER TH ER D IY F AO R
+to-thirty-five T UW TH ER D IY F AY V
+to-number-thirty-five T UW N AH M B ER TH ER D IY F AY V
+to-thirty-six T UW TH ER D IY S IH K S
+to-number-thirty-six T UW N AH M B ER TH ER D IY S IH K S
+to-thirty-seven T UW TH ER D IY S EH V AH N
+to-number-thirty-seven T UW N AH M B ER TH ER D IY S EH V AH N
+to-thirty-eight T UW TH ER D IY EY T
+to-number-thirty-eight T UW N AH M B ER TH ER D IY EY T
+to-thirty-nine T UW TH ER D IY N AY N
+to-number-thirty-nine T UW N AH M B ER TH ER D IY N AY N
+to-forty T UW F AO R T IY
+to-number-forty T UW N AH M B ER F AO R T IY
+to-forty-one T UW F AO R T IY W AH N
+to-number-forty-one T UW N AH M B ER F AO R T IY W AH N
+to-forty-two T UW F AO R T IY T UW
+to-number-forty-two T UW N AH M B ER F AO R T IY T UW
+to-forty-three T UW F AO R T IY TH R IY
+to-number-forty-three T UW N AH M B ER F AO R T IY TH R IY
+to-forty-four T UW F AO R T IY F AO R
+to-number-forty-four T UW N AH M B ER F AO R T IY F AO R
+to-forty-five T UW F AO R T IY F AY V
+to-number-forty-five T UW N AH M B ER F AO R T IY F AY V
+to-forty-six T UW F AO R T IY S IH K S
+to-number-forty-six T UW N AH M B ER F AO R T IY S IH K S
+to-forty-seven T UW F AO R T IY S EH V AH N
+to-number-forty-seven T UW N AH M B ER F AO R T IY S EH V AH N
+to-forty-eight T UW F AO R T IY EY T
+to-number-forty-eight T UW N AH M B ER F AO R T IY EY T
+to-forty-nine T UW F AO R T IY N AY N
+to-number-forty-nine T UW N AH M B ER F AO R T IY N AY N
+to-fifty T UW F IH F T IY
+to-number-fifty T UW N AH M B ER F IH F T IY
+to-fifty-one T UW F IH F T IY W AH N
+to-number-fifty-one T UW N AH M B ER F IH F T IY W AH N
+to-fifty-two T UW F IH F T IY T UW
+to-number-fifty-two T UW N AH M B ER F IH F T IY T UW
+to-fifty-three T UW F IH F T IY TH R IY
+to-number-fifty-three T UW N AH M B ER F IH F T IY TH R IY
+to-fifty-four T UW F IH F T IY F AO R
+to-number-fifty-four T UW N AH M B ER F IH F T IY F AO R
+to-fifty-five T UW F IH F T IY F AY V
+to-number-fifty-five T UW N AH M B ER F IH F T IY F AY V
+to-fifty-six T UW F IH F T IY S IH K S
+to-number-fifty-six T UW N AH M B ER F IH F T IY S IH K S
+to-fifty-seven T UW F IH F T IY S EH V AH N
+to-number-fifty-seven T UW N AH M B ER F IH F T IY S EH V AH N
+to-fifty-eight T UW F IH F T IY EY T
+to-number-fifty-eight T UW N AH M B ER F IH F T IY EY T
+to-fifty-nine T UW F IH F T IY N AY N
+to-number-fifty-nine T UW N AH M B ER F IH F T IY N AY N
+to-sixty T UW S IH K S T IY
+to-number-sixty T UW N AH M B ER S IH K S T IY
+to-sixty-one T UW S IH K S T IY W AH N
+to-number-sixty-one T UW N AH M B ER S IH K S T IY W AH N
+to-sixty-two T UW S IH K S T IY T UW
+to-number-sixty-two T UW N AH M B ER S IH K S T IY T UW
+to-sixty-three T UW S IH K S T IY TH R IY
+to-number-sixty-three T UW N AH M B ER S IH K S T IY TH R IY
+to-sixty-four T UW S IH K S T IY F AO R
+to-number-sixty-four T UW N AH M B ER S IH K S T IY F AO R
+to-sixty-five T UW S IH K S T IY F AY V
+to-number-sixty-five T UW N AH M B ER S IH K S T IY F AY V
+to-sixty-six T UW S IH K S T IY S IH K S
+to-number-sixty-six T UW N AH M B ER S IH K S T IY S IH K S
+to-sixty-seven T UW S IH K S T IY S EH V AH N
+to-number-sixty-seven T UW N AH M B ER S IH K S T IY S EH V AH N
+to-sixty-eight T UW S IH K S T IY EY T
+to-number-sixty-eight T UW N AH M B ER S IH K S T IY EY T
+to-sixty-nine T UW S IH K S T IY N AY N
+to-number-sixty-nine T UW N AH M B ER S IH K S T IY N AY N
+to-seventy T UW S EH V AH N T IY
+to-number-seventy T UW N AH M B ER S EH V AH N T IY
+to-seventy-one T UW S EH V AH N T IY W AH N
+to-number-seventy-one T UW N AH M B ER S EH V AH N T IY W AH N
+to-seventy-two T UW S EH V AH N T IY T UW
+to-number-seventy-two T UW N AH M B ER S EH V AH N T IY T UW
+to-seventy-three T UW S EH V AH N T IY TH R IY
+to-number-seventy-three T UW N AH M B ER S EH V AH N T IY TH R IY
+to-seventy-four T UW S EH V AH N T IY F AO R
+to-number-seventy-four T UW N AH M B ER S EH V AH N T IY F AO R
+to-seventy-five T UW S EH V AH N T IY F AY V
+to-number-seventy-five T UW N AH M B ER S EH V AH N T IY F AY V
+to-seventy-six T UW S EH V AH N T IY S IH K S
+to-number-seventy-six T UW N AH M B ER S EH V AH N T IY S IH K S
+to-seventy-seven T UW S EH V AH N T IY S EH V AH N
+to-number-seventy-seven T UW N AH M B ER S EH V AH N T IY S EH V AH N
+to-seventy-eight T UW S EH V AH N T IY EY T
+to-number-seventy-eight T UW N AH M B ER S EH V AH N T IY EY T
+to-seventy-nine T UW S EH V AH N T IY N AY N
+to-number-seventy-nine T UW N AH M B ER S EH V AH N T IY N AY N
+to-eighty T UW EY T IY
+to-number-eighty T UW N AH M B ER EY T IY
+to-eighty-one T UW EY T IY W AH N
+to-number-eighty-one T UW N AH M B ER EY T IY W AH N
+to-eighty-two T UW EY T IY T UW
+to-number-eighty-two T UW N AH M B ER EY T IY T UW
+to-eighty-three T UW EY T IY TH R IY
+to-number-eighty-three T UW N AH M B ER EY T IY TH R IY
+to-eighty-four T UW EY T IY F AO R
+to-number-eighty-four T UW N AH M B ER EY T IY F AO R
+to-eighty-five T UW EY T IY F AY V
+to-number-eighty-five T UW N AH M B ER EY T IY F AY V
+to-eighty-six T UW EY T IY S IH K S
+to-number-eighty-six T UW N AH M B ER EY T IY S IH K S
+to-eighty-seven T UW EY T IY S EH V AH N
+to-number-eighty-seven T UW N AH M B ER EY T IY S EH V AH N
+to-eighty-eight T UW EY T IY EY T
+to-number-eighty-eight T UW N AH M B ER EY T IY EY T
+to-eighty-nine T UW EY T IY N AY N
+to-number-eighty-nine T UW N AH M B ER EY T IY N AY N
+to-ninety T UW N AY N T IY
+to-number-ninety T UW N AH M B ER N AY N T IY
+to-ninety-one T UW N AY N T IY W AH N
+to-number-ninety-one T UW N AH M B ER N AY N T IY W AH N
+to-ninety-two T UW N AY N T IY T UW
+to-number-ninety-two T UW N AH M B ER N AY N T IY T UW
+to-ninety-three T UW N AY N T IY TH R IY
+to-number-ninety-three T UW N AH M B ER N AY N T IY TH R IY
+to-ninety-four T UW N AY N T IY F AO R
+to-number-ninety-four T UW N AH M B ER N AY N T IY F AO R
+to-ninety-five T UW N AY N T IY F AY V
+to-number-ninety-five T UW N AH M B ER N AY N T IY F AY V
+to-ninety-six T UW N AY N T IY S IH K S
+to-number-ninety-six T UW N AH M B ER N AY N T IY S IH K S
+to-ninety-seven T UW N AY N T IY S EH V AH N
+to-number-ninety-seven T UW N AH M B ER N AY N T IY S EH V AH N
+to-ninety-eight T UW N AY N T IY EY T
+to-number-ninety-eight T UW N AH M B ER N AY N T IY EY T
+to-ninety-nine T UW N AY N T IY N AY N
+to-number-ninety-nine T UW N AH M B ER N AY N T IY N AY N
+to-double-zero T UW D AH B AH L Z IH R OW
+to-number-double-zero T UW N AH M B ER D AH B AH L Z IH R OW
+on-zero AA N Z IH R OW
+on-number-zero AA N N AH M B ER Z IH R OW
+on-one AA N W AH N
+on-number-one AA N N AH M B ER W AH N
+on-two AA N T UW
+on-number-two AA N N AH M B ER T UW
+on-three AA N TH R IY
+on-number-three AA N N AH M B ER TH R IY
+on-four AA N F AO R
+on-number-four AA N N AH M B ER F AO R
+on-five AA N F AY V
+on-number-five AA N N AH M B ER F AY V
+on-six AA N S IH K S
+on-number-six AA N N AH M B ER S IH K S
+on-seven AA N S EH V AH N
+on-number-seven AA N N AH M B ER S EH V AH N
+on-eight AA N EY T
+on-number-eight AA N N AH M B ER EY T
+on-nine AA N N AY N
+on-number-nine AA N N AH M B ER N AY N
+on-ten AA N T EH N
+on-number-ten AA N N AH M B ER T EH N
+on-eleven AA N IH L EH V AH N
+on-number-eleven AA N N AH M B ER IH L EH V AH N
+on-twelve AA N T W EH L V
+on-number-twelve AA N N AH M B ER T W EH L V
+on-thirteen AA N TH ER T IY N
+on-number-thirteen AA N N AH M B ER TH ER T IY N
+on-fourteen AA N F AO R T IY N
+on-number-fourteen AA N N AH M B ER F AO R T IY N
+on-fifteen AA N F IH F T IY N
+on-number-fifteen AA N N AH M B ER F IH F T IY N
+on-sixteen AA N S IH K S T IY N
+on-number-sixteen AA N N AH M B ER S IH K S T IY N
+on-seventeen AA N S EH V AH N T IY N
+on-number-seventeen AA N N AH M B ER S EH V AH N T IY N
+on-eighteen AA N EY T IY N
+on-number-eighteen AA N N AH M B ER EY T IY N
+on-nineteen AA N N AY N T IY N
+on-number-nineteen AA N N AH M B ER N AY N T IY N
+on-twenty AA N T W EH N T IY
+on-number-twenty AA N N AH M B ER T W EH N T IY
+on-twenty-one AA N T W EH N T IY W AH N
+on-number-twenty-one AA N N AH M B ER T W EH N T IY W AH N
+on-twenty-two AA N T W EH N T IY T UW
+on-number-twenty-two AA N N AH M B ER T W EH N T IY T UW
+on-twenty-three AA N T W EH N T IY TH R IY
+on-number-twenty-three AA N N AH M B ER T W EH N T IY TH R IY
+on-twenty-four AA N T W EH N T IY F AO R
+on-number-twenty-four AA N N AH M B ER T W EH N T IY F AO R
+on-twenty-five AA N T W EH N T IY F AY V
+on-number-twenty-five AA N N AH M B ER T W EH N T IY F AY V
+on-twenty-six AA N T W EH N T IY S IH K S
+on-number-twenty-six AA N N AH M B ER T W EH N T IY S IH K S
+on-twenty-seven AA N T W EH N T IY S EH V AH N
+on-number-twenty-seven AA N N AH M B ER T W EH N T IY S EH V AH N
+on-twenty-eight AA N T W EH N T IY EY T
+on-number-twenty-eight AA N N AH M B ER T W EH N T IY EY T
+on-twenty-nine AA N T W EH N T IY N AY N
+on-number-twenty-nine AA N N AH M B ER T W EH N T IY N AY N
+on-thirty AA N TH ER D IY
+on-number-thirty AA N N AH M B ER TH ER D IY
+on-thirty-one AA N TH ER D IY W AH N
+on-number-thirty-one AA N N AH M B ER TH ER D IY W AH N
+on-thirty-two AA N TH ER D IY T UW
+on-number-thirty-two AA N N AH M B ER TH ER D IY T UW
+on-thirty-three AA N TH ER D IY TH R IY
+on-number-thirty-three AA N N AH M B ER TH ER D IY TH R IY
+on-thirty-four AA N TH ER D IY F AO R
+on-number-thirty-four AA N N AH M B ER TH ER D IY F AO R
+on-thirty-five AA N TH ER D IY F AY V
+on-number-thirty-five AA N N AH M B ER TH ER D IY F AY V
+on-thirty-six AA N TH ER D IY S IH K S
+on-number-thirty-six AA N N AH M B ER TH ER D IY S IH K S
+on-thirty-seven AA N TH ER D IY S EH V AH N
+on-number-thirty-seven AA N N AH M B ER TH ER D IY S EH V AH N
+on-thirty-eight AA N TH ER D IY EY T
+on-number-thirty-eight AA N N AH M B ER TH ER D IY EY T
+on-thirty-nine AA N TH ER D IY N AY N
+on-number-thirty-nine AA N N AH M B ER TH ER D IY N AY N
+on-forty AA N F AO R T IY
+on-number-forty AA N N AH M B ER F AO R T IY
+on-forty-one AA N F AO R T IY W AH N
+on-number-forty-one AA N N AH M B ER F AO R T IY W AH N
+on-forty-two AA N F AO R T IY T UW
+on-number-forty-two AA N N AH M B ER F AO R T IY T UW
+on-forty-three AA N F AO R T IY TH R IY
+on-number-forty-three AA N N AH M B ER F AO R T IY TH R IY
+on-forty-four AA N F AO R T IY F AO R
+on-number-forty-four AA N N AH M B ER F AO R T IY F AO R
+on-forty-five AA N F AO R T IY F AY V
+on-number-forty-five AA N N AH M B ER F AO R T IY F AY V
+on-forty-six AA N F AO R T IY S IH K S
+on-number-forty-six AA N N AH M B ER F AO R T IY S IH K S
+on-forty-seven AA N F AO R T IY S EH V AH N
+on-number-forty-seven AA N N AH M B ER F AO R T IY S EH V AH N
+on-forty-eight AA N F AO R T IY EY T
+on-number-forty-eight AA N N AH M B ER F AO R T IY EY T
+on-forty-nine AA N F AO R T IY N AY N
+on-number-forty-nine AA N N AH M B ER F AO R T IY N AY N
+on-fifty AA N F IH F T IY
+on-number-fifty AA N N AH M B ER F IH F T IY
+on-fifty-one AA N F IH F T IY W AH N
+on-number-fifty-one AA N N AH M B ER F IH F T IY W AH N
+on-fifty-two AA N F IH F T IY T UW
+on-number-fifty-two AA N N AH M B ER F IH F T IY T UW
+on-fifty-three AA N F IH F T IY TH R IY
+on-number-fifty-three AA N N AH M B ER F IH F T IY TH R IY
+on-fifty-four AA N F IH F T IY F AO R
+on-number-fifty-four AA N N AH M B ER F IH F T IY F AO R
+on-fifty-five AA N F IH F T IY F AY V
+on-number-fifty-five AA N N AH M B ER F IH F T IY F AY V
+on-fifty-six AA N F IH F T IY S IH K S
+on-number-fifty-six AA N N AH M B ER F IH F T IY S IH K S
+on-fifty-seven AA N F IH F T IY S EH V AH N
+on-number-fifty-seven AA N N AH M B ER F IH F T IY S EH V AH N
+on-fifty-eight AA N F IH F T IY EY T
+on-number-fifty-eight AA N N AH M B ER F IH F T IY EY T
+on-fifty-nine AA N F IH F T IY N AY N
+on-number-fifty-nine AA N N AH M B ER F IH F T IY N AY N
+on-sixty AA N S IH K S T IY
+on-number-sixty AA N N AH M B ER S IH K S T IY
+on-sixty-one AA N S IH K S T IY W AH N
+on-number-sixty-one AA N N AH M B ER S IH K S T IY W AH N
+on-sixty-two AA N S IH K S T IY T UW
+on-number-sixty-two AA N N AH M B ER S IH K S T IY T UW
+on-sixty-three AA N S IH K S T IY TH R IY
+on-number-sixty-three AA N N AH M B ER S IH K S T IY TH R IY
+on-sixty-four AA N S IH K S T IY F AO R
+on-number-sixty-four AA N N AH M B ER S IH K S T IY F AO R
+on-sixty-five AA N S IH K S T IY F AY V
+on-number-sixty-five AA N N AH M B ER S IH K S T IY F AY V
+on-sixty-six AA N S IH K S T IY S IH K S
+on-number-sixty-six AA N N AH M B ER S IH K S T IY S IH K S
+on-sixty-seven AA N S IH K S T IY S EH V AH N
+on-number-sixty-seven AA N N AH M B ER S IH K S T IY S EH V AH N
+on-sixty-eight AA N S IH K S T IY EY T
+on-number-sixty-eight AA N N AH M B ER S IH K S T IY EY T
+on-sixty-nine AA N S IH K S T IY N AY N
+on-number-sixty-nine AA N N AH M B ER S IH K S T IY N AY N
+on-seventy AA N S EH V AH N T IY
+on-number-seventy AA N N AH M B ER S EH V AH N T IY
+on-seventy-one AA N S EH V AH N T IY W AH N
+on-number-seventy-one AA N N AH M B ER S EH V AH N T IY W AH N
+on-seventy-two AA N S EH V AH N T IY T UW
+on-number-seventy-two AA N N AH M B ER S EH V AH N T IY T UW
+on-seventy-three AA N S EH V AH N T IY TH R IY
+on-number-seventy-three AA N N AH M B ER S EH V AH N T IY TH R IY
+on-seventy-four AA N S EH V AH N T IY F AO R
+on-number-seventy-four AA N N AH M B ER S EH V AH N T IY F AO R
+on-seventy-five AA N S EH V AH N T IY F AY V
+on-number-seventy-five AA N N AH M B ER S EH V AH N T IY F AY V
+on-seventy-six AA N S EH V AH N T IY S IH K S
+on-number-seventy-six AA N N AH M B ER S EH V AH N T IY S IH K S
+on-seventy-seven AA N S EH V AH N T IY S EH V AH N
+on-number-seventy-seven AA N N AH M B ER S EH V AH N T IY S EH V AH N
+on-seventy-eight AA N S EH V AH N T IY EY T
+on-number-seventy-eight AA N N AH M B ER S EH V AH N T IY EY T
+on-seventy-nine AA N S EH V AH N T IY N AY N
+on-number-seventy-nine AA N N AH M B ER S EH V AH N T IY N AY N
+on-eighty AA N EY T IY
+on-number-eighty AA N N AH M B ER EY T IY
+on-eighty-one AA N EY T IY W AH N
+on-number-eighty-one AA N N AH M B ER EY T IY W AH N
+on-eighty-two AA N EY T IY T UW
+on-number-eighty-two AA N N AH M B ER EY T IY T UW
+on-eighty-three AA N EY T IY TH R IY
+on-number-eighty-three AA N N AH M B ER EY T IY TH R IY
+on-eighty-four AA N EY T IY F AO R
+on-number-eighty-four AA N N AH M B ER EY T IY F AO R
+on-eighty-five AA N EY T IY F AY V
+on-number-eighty-five AA N N AH M B ER EY T IY F AY V
+on-eighty-six AA N EY T IY S IH K S
+on-number-eighty-six AA N N AH M B ER EY T IY S IH K S
+on-eighty-seven AA N EY T IY S EH V AH N
+on-number-eighty-seven AA N N AH M B ER EY T IY S EH V AH N
+on-eighty-eight AA N EY T IY EY T
+on-number-eighty-eight AA N N AH M B ER EY T IY EY T
+on-eighty-nine AA N EY T IY N AY N
+on-number-eighty-nine AA N N AH M B ER EY T IY N AY N
+on-ninety AA N N AY N T IY
+on-number-ninety AA N N AH M B ER N AY N T IY
+on-ninety-one AA N N AY N T IY W AH N
+on-number-ninety-one AA N N AH M B ER N AY N T IY W AH N
+on-ninety-two AA N N AY N T IY T UW
+on-number-ninety-two AA N N AH M B ER N AY N T IY T UW
+on-ninety-three AA N N AY N T IY TH R IY
+on-number-ninety-three AA N N AH M B ER N AY N T IY TH R IY
+on-ninety-four AA N N AY N T IY F AO R
+on-number-ninety-four AA N N AH M B ER N AY N T IY F AO R
+on-ninety-five AA N N AY N T IY F AY V
+on-number-ninety-five AA N N AH M B ER N AY N T IY F AY V
+on-ninety-six AA N N AY N T IY S IH K S
+on-number-ninety-six AA N N AH M B ER N AY N T IY S IH K S
+on-ninety-seven AA N N AY N T IY S EH V AH N
+on-number-ninety-seven AA N N AH M B ER N AY N T IY S EH V AH N
+on-ninety-eight AA N N AY N T IY EY T
+on-number-ninety-eight AA N N AH M B ER N AY N T IY EY T
+on-ninety-nine AA N N AY N T IY N AY N
+on-number-ninety-nine AA N N AH M B ER N AY N T IY N AY N
+on-double-zero AA N D AH B AH L Z IH R OW
+on-number-double-zero AA N N AH M B ER D AH B AH L Z IH R OW
+by-opponent B AY AH P OW N AH N T
+by-the-opponent B AY DH AH AH P OW N AH N T
+by-home B AY HH OW M
+by-the-home B AY DH AH HH OW M
+by-home-team B AY HH OW M T IY M
+by-the-home-team B AY DH AH HH OW M T IY M
+by-team-one B AY T IY M W AH N
+by-the-team-one B AY DH AH T IY M W AH N
+by-visitor B AY V IH Z IH T ER
+by-the-visitor B AY DH AH V IH Z IH T ER
+by-visiting-team B AY V IH Z IH T IH NG T IY M
+by-the-visiting-team B AY DH AH V IH Z IH T IH NG T IY M
+by-away-team B AY AH W EY T IY M
+by-the-away-team B AY DH AH AH W EY T IY M
+by-team-two B AY T IY M T UW
+by-the-team-two B AY DH AH T IY M T UW
+by-referee B AY R EH F ER IY
+by-the-referee B AY DH AH R EH F ER IY
+by-official B AY AH F IH SH AH L
+by-the-official B AY DH AH AH F IH SH AH L
+to-opponent T UW AH P OW N AH N T
+to-the-opponent T UW DH AH AH P OW N AH N T
+to-home T UW HH OW M
+to-the-home T UW DH AH HH OW M
+to-home-team T UW HH OW M T IY M
+to-the-home-team T UW DH AH HH OW M T IY M
+to-team-one T UW T IY M W AH N
+to-the-team-one T UW DH AH T IY M W AH N
+to-visitor T UW V IH Z IH T ER
+to-the-visitor T UW DH AH V IH Z IH T ER
+to-visiting-team T UW V IH Z IH T IH NG T IY M
+to-the-visiting-team T UW DH AH V IH Z IH T IH NG T IY M
+to-away-team T UW AH W EY T IY M
+to-the-away-team T UW DH AH AH W EY T IY M
+to-team-two T UW T IY M T UW
+to-the-team-two T UW DH AH T IY M T UW
+to-referee T UW R EH F ER IY
+to-the-referee T UW DH AH R EH F ER IY
+to-official T UW AH F IH SH AH L
+to-the-official T UW DH AH AH F IH SH AH L
+on-opponent AA N AH P OW N AH N T
+on-the-opponent AA N DH AH AH P OW N AH N T
+on-home AA N HH OW M
+on-the-home AA N DH AH HH OW M
+on-home-team AA N HH OW M T IY M
+on-the-home-team AA N DH AH HH OW M T IY M
+on-team-one AA N T IY M W AH N
+on-the-team-one AA N DH AH T IY M W AH N
+on-visitor AA N V IH Z IH T ER
+on-the-visitor AA N DH AH V IH Z IH T ER
+on-visiting-team AA N V IH Z IH T IH NG T IY M
+on-the-visiting-team AA N DH AH V IH Z IH T IH NG T IY M
+on-away-team AA N AH W EY T IY M
+on-the-away-team AA N DH AH AH W EY T IY M
+on-team-two AA N T IY M T UW
+on-the-team-two AA N DH AH T IY M T UW
+on-referee AA N R EH F ER IY
+on-the-referee AA N DH AH R EH F ER IY
+on-official AA N AH F IH SH AH L
+on-the-official AA N DH AH AH F IH SH AH L
+by-blue B AY B L UW
+by-blue-team B AY B L UW T IY M
+by-the-blue-team B AY DH AH B L UW T IY M
+by-red B AY R EH D
+by-red-team B AY R EH D T IY M
+by-the-red-team B AY DH AH R EH D T IY M
+by-white B AY W AY T
+by-white-team B AY W AY T T IY M
+by-the-white-team B AY DH AH W AY T T IY M
+by-gold B AY G OW L D
+by-gold-team B AY G OW L D T IY M
+by-the-gold-team B AY DH AH G OW L D T IY M
+by-yellow B AY Y EH L OW
+by-yellow-team B AY Y EH L OW T IY M
+by-the-yellow-team B AY DH AH Y EH L OW T IY M
+by-purple B AY P ER P AH L
+by-purple-team B AY P ER P AH L T IY M
+by-the-purple-team B AY DH AH P ER P AH L T IY M
+by-green B AY G R IY N
+by-green-team B AY G R IY N T IY M
+by-the-green-team B AY DH AH G R IY N T IY M
+by-orange B AY AO R AH N JH
+by-orange-team B AY AO R AH N JH T IY M
+by-the-orange-team B AY DH AH AO R AH N JH T IY M
+by-silver B AY S IH L V ER
+by-silver-team B AY S IH L V ER T IY M
+by-the-silver-team B AY DH AH S IH L V ER T IY M
+by-gray B AY G R EY
+by-gray-team B AY G R EY T IY M
+by-the-gray-team B AY DH AH G R EY T IY M
+by-black B AY B L AE K
+by-black-team B AY B L AE K T IY M
+by-the-black-team B AY DH AH B L AE K T IY M
+by-brown B AY B R AW N
+by-brown-team B AY B R AW N T IY M
+by-the-brown-team B AY DH AH B R AW N T IY M
+by-maroon B AY M ER UW N
+by-maroon-team B AY M ER UW N T IY M
+by-the-maroon-team B AY DH AH M ER UW N T IY M
+by-navy B AY N EY V IY
+by-navy-team B AY N EY V IY T IY M
+by-the-navy-team B AY DH AH N EY V IY T IY M
+to-blue T UW B L UW
+to-blue-team T UW B L UW T IY M
+to-the-blue-team T UW DH AH B L UW T IY M
+to-red T UW R EH D
+to-red-team T UW R EH D T IY M
+to-the-red-team T UW DH AH R EH D T IY M
+to-white T UW W AY T
+to-white-team T UW W AY T T IY M
+to-the-white-team T UW DH AH W AY T T IY M
+to-gold T UW G OW L D
+to-gold-team T UW G OW L D T IY M
+to-the-gold-team T UW DH AH G OW L D T IY M
+to-yellow T UW Y EH L OW
+to-yellow-team T UW Y EH L OW T IY M
+to-the-yellow-team T UW DH AH Y EH L OW T IY M
+to-purple T UW P ER P AH L
+to-purple-team T UW P ER P AH L T IY M
+to-the-purple-team T UW DH AH P ER P AH L T IY M
+to-green T UW G R IY N
+to-green-team T UW G R IY N T IY M
+to-the-green-team T UW DH AH G R IY N T IY M
+to-orange T UW AO R AH N JH
+to-orange-team T UW AO R AH N JH T IY M
+to-the-orange-team T UW DH AH AO R AH N JH T IY M
+to-silver T UW S IH L V ER
+to-silver-team T UW S IH L V ER T IY M
+to-the-silver-team T UW DH AH S IH L V ER T IY M
+to-gray T UW G R EY
+to-gray-team T UW G R EY T IY M
+to-the-gray-team T UW DH AH G R EY T IY M
+to-black T UW B L AE K
+to-black-team T UW B L AE K T IY M
+to-the-black-team T UW DH AH B L AE K T IY M
+to-brown T UW B R AW N
+to-brown-team T UW B R AW N T IY M
+to-the-brown-team T UW DH AH B R AW N T IY M
+to-maroon T UW M ER UW N
+to-maroon-team T UW M ER UW N T IY M
+to-the-maroon-team T UW DH AH M ER UW N T IY M
+to-navy T UW N EY V IY
+to-navy-team T UW N EY V IY T IY M
+to-the-navy-team T UW DH AH N EY V IY T IY M
+on-blue AA N B L UW
+on-blue-team AA N B L UW T IY M
+on-the-blue-team AA N DH AH B L UW T IY M
+on-red AA N R EH D
+on-red-team AA N R EH D T IY M
+on-the-red-team AA N DH AH R EH D T IY M
+on-white AA N W AY T
+on-white-team AA N W AY T T IY M
+on-the-white-team AA N DH AH W AY T T IY M
+on-gold AA N G OW L D
+on-gold-team AA N G OW L D T IY M
+on-the-gold-team AA N DH AH G OW L D T IY M
+on-yellow AA N Y EH L OW
+on-yellow-team AA N Y EH L OW T IY M
+on-the-yellow-team AA N DH AH Y EH L OW T IY M
+on-purple AA N P ER P AH L
+on-purple-team AA N P ER P AH L T IY M
+on-the-purple-team AA N DH AH P ER P AH L T IY M
+on-green AA N G R IY N
+on-green-team AA N G R IY N T IY M
+on-the-green-team AA N DH AH G R IY N T IY M
+on-orange AA N AO R AH N JH
+on-orange-team AA N AO R AH N JH T IY M
+on-the-orange-team AA N DH AH AO R AH N JH T IY M
+on-silver AA N S IH L V ER
+on-silver-team AA N S IH L V ER T IY M
+on-the-silver-team AA N DH AH S IH L V ER T IY M
+on-gray AA N G R EY
+on-gray-team AA N G R EY T IY M
+on-the-gray-team AA N DH AH G R EY T IY M
+on-black AA N B L AE K
+on-black-team AA N B L AE K T IY M
+on-the-black-team AA N DH AH B L AE K T IY M
+on-brown AA N B R AW N
+on-brown-team AA N B R AW N T IY M
+on-the-brown-team AA N DH AH B R AW N T IY M
+on-maroon AA N M ER UW N
+on-maroon-team AA N M ER UW N T IY M
+on-the-maroon-team AA N DH AH M ER UW N T IY M
+on-navy AA N N EY V IY
+on-navy-team AA N N EY V IY T IY M
+on-the-navy-team AA N DH AH N EY V IY T IY M
+start-of-event S T AA R T AH V IH V EH N T
+start-of-game S T AA R T AH V G EY M
+start-of-match S T AA R T AH V M AE CH
+start-of-period S T AA R T AH V P IH R IY AH D
+start-of-quarter S T AA R T AH V K W AO R T ER
+start-of-first-half S T AA R T AH V F ER S T HH AE F
+start-of-second-half S T AA R T AH V S EH K AH N D HH AE F
+start-of-overtime S T AA R T AH V OW V ER T AY M
+start-of-over-time S T AA R T AH V OW V ER T AY M
+start-of-halftime S T AA R T AH V HH AE F T AY M
+start-of-half-time S T AA R T AH V HH AE F T AY M
+start-of-performance S T AA R T AH V P ER F AO R M AH N S
+start-of-the-event S T AA R T AH V DH AH IH V EH N T
+start-of-the-game S T AA R T AH V DH AH G EY M
+start-of-the-match S T AA R T AH V DH AH M AE CH
+start-of-the-period S T AA R T AH V DH AH P IH R IY AH D
+start-of-the-quarter S T AA R T AH V DH AH K W AO R T ER
+start-of-the-first-half S T AA R T AH V DH AH F ER S T HH AE F
+start-of-the-second-half S T AA R T AH V DH AH S EH K AH N D HH AE F
+start-of-the-overtime S T AA R T AH V DH AH OW V ER T AY M
+start-of-the-over-time S T AA R T AH V DH AH OW V ER T AY M
+start-of-the-halftime S T AA R T AH V DH AH HH AE F T AY M
+start-of-the-half-time S T AA R T AH V DH AH HH AE F T AY M
+start-of-the-performance S T AA R T AH V DH AH P ER F AO R M AH N S
+beginning-of-event B IH G IH N IH NG AH V IH V EH N T
+beginning-of-game B IH G IH N IH NG AH V G EY M
+beginning-of-match B IH G IH N IH NG AH V M AE CH
+beginning-of-period B IH G IH N IH NG AH V P IH R IY AH D
+beginning-of-quarter B IH G IH N IH NG AH V K W AO R T ER
+beginning-of-first-half B IH G IH N IH NG AH V F ER S T HH AE F
+beginning-of-second-half B IH G IH N IH NG AH V S EH K AH N D HH AE F
+beginning-of-overtime B IH G IH N IH NG AH V OW V ER T AY M
+beginning-of-over-time B IH G IH N IH NG AH V OW V ER T AY M
+beginning-of-halftime B IH G IH N IH NG AH V HH AE F T AY M
+beginning-of-half-time B IH G IH N IH NG AH V HH AE F T AY M
+beginning-of-performance B IH G IH N IH NG AH V P ER F AO R M AH N S
+beginning-of-the-event B IH G IH N IH NG AH V DH AH IH V EH N T
+beginning-of-the-game B IH G IH N IH NG AH V DH AH G EY M
+beginning-of-the-match B IH G IH N IH NG AH V DH AH M AE CH
+beginning-of-the-period B IH G IH N IH NG AH V DH AH P IH R IY AH D
+beginning-of-the-quarter B IH G IH N IH NG AH V DH AH K W AO R T ER
+beginning-of-the-first-half B IH G IH N IH NG AH V DH AH F ER S T HH AE F
+beginning-of-the-second-half B IH G IH N IH NG AH V DH AH S EH K AH N D HH AE F
+beginning-of-the-overtime B IH G IH N IH NG AH V DH AH OW V ER T AY M
+beginning-of-the-over-time B IH G IH N IH NG AH V DH AH OW V ER T AY M
+beginning-of-the-halftime B IH G IH N IH NG AH V DH AH HH AE F T AY M
+beginning-of-the-half-time B IH G IH N IH NG AH V DH AH HH AE F T AY M
+beginning-of-the-performance B IH G IH N IH NG AH V DH AH P ER F AO R M AH N S
+end-of-event EH N D AH V IH V EH N T
+end-of-game EH N D AH V G EY M
+end-of-match EH N D AH V M AE CH
+end-of-period EH N D AH V P IH R IY AH D
+end-of-quarter EH N D AH V K W AO R T ER
+end-of-first-half EH N D AH V F ER S T HH AE F
+end-of-second-half EH N D AH V S EH K AH N D HH AE F
+end-of-overtime EH N D AH V OW V ER T AY M
+end-of-over-time EH N D AH V OW V ER T AY M
+end-of-halftime EH N D AH V HH AE F T AY M
+end-of-half-time EH N D AH V HH AE F T AY M
+end-of-performance EH N D AH V P ER F AO R M AH N S
+end-of-the-event EH N D AH V DH AH IH V EH N T
+end-of-the-game EH N D AH V DH AH G EY M
+end-of-the-match EH N D AH V DH AH M AE CH
+end-of-the-period EH N D AH V DH AH P IH R IY AH D
+end-of-the-quarter EH N D AH V DH AH K W AO R T ER
+end-of-the-first-half EH N D AH V DH AH F ER S T HH AE F
+end-of-the-second-half EH N D AH V DH AH S EH K AH N D HH AE F
+end-of-the-overtime EH N D AH V DH AH OW V ER T AY M
+end-of-the-over-time EH N D AH V DH AH OW V ER T AY M
+end-of-the-halftime EH N D AH V DH AH HH AE F T AY M
+end-of-the-half-time EH N D AH V DH AH HH AE F T AY M
+end-of-the-performance EH N D AH V DH AH P ER F AO R M AH N S
+score S K AO R
+time-out T AY M AW T
+out-of-bounds AW T AH V B AW N D Z
+weather W EH DH ER
+highlight HH AY L AY T
+highlights HH AY L AY T S
+highlight-reel HH AY L AY T R IY L
+opponent-with-the-ball AH P OW N AH N T W IH DH DH AH B AO L
+opponent-with-possession AH P OW N AH N T W IH DH P AH Z EH SH AH N
+possession-opponent P AH Z EH SH AH N AH P OW N AH N T
+penalty-opponent P EH N AH L T IY AH P OW N AH N T
+home-with-the-ball HH OW M W IH DH DH AH B AO L
+home-with-possession HH OW M W IH DH P AH Z EH SH AH N
+possession-home P AH Z EH SH AH N HH OW M
+penalty-home P EH N AH L T IY HH OW M
+home-team-with-the-ball HH OW M T IY M W IH DH DH AH B AO L
+home-team-with-possession HH OW M T IY M W IH DH P AH Z EH SH AH N
+possession-home-team P AH Z EH SH AH N HH OW M T IY M
+penalty-home-team P EH N AH L T IY HH OW M T IY M
+team-one-with-the-ball T IY M W AH N W IH DH DH AH B AO L
+team-one-with-possession T IY M W AH N W IH DH P AH Z EH SH AH N
+possession-team-one P AH Z EH SH AH N T IY M W AH N
+penalty-team-one P EH N AH L T IY T IY M W AH N
+visitor-with-the-ball V IH Z IH T ER W IH DH DH AH B AO L
+visitor-with-possession V IH Z IH T ER W IH DH P AH Z EH SH AH N
+possession-visitor P AH Z EH SH AH N V IH Z IH T ER
+penalty-visitor P EH N AH L T IY V IH Z IH T ER
+visiting-team-with-the-ball V IH Z IH T IH NG T IY M W IH DH DH AH B AO L
+visiting-team-with-possession V IH Z IH T IH NG T IY M W IH DH P AH Z EH SH AH N
+possession-visiting-team P AH Z EH SH AH N V IH Z IH T IH NG T IY M
+penalty-visiting-team P EH N AH L T IY V IH Z IH T IH NG T IY M
+away-team-with-the-ball AH W EY T IY M W IH DH DH AH B AO L
+away-team-with-possession AH W EY T IY M W IH DH P AH Z EH SH AH N
+possession-away-team P AH Z EH SH AH N AH W EY T IY M
+penalty-away-team P EH N AH L T IY AH W EY T IY M
+team-two-with-the-ball T IY M T UW W IH DH DH AH B AO L
+team-two-with-possession T IY M T UW W IH DH P AH Z EH SH AH N
+possession-team-two P AH Z EH SH AH N T IY M T UW
+penalty-team-two P EH N AH L T IY T IY M T UW
+referee-with-the-ball R EH F ER IY W IH DH DH AH B AO L
+referee-with-possession R EH F ER IY W IH DH P AH Z EH SH AH N
+possession-referee P AH Z EH SH AH N R EH F ER IY
+penalty-referee P EH N AH L T IY R EH F ER IY
+official-with-the-ball AH F IH SH AH L W IH DH DH AH B AO L
+official-with-possession AH F IH SH AH L W IH DH P AH Z EH SH AH N
+possession-official P AH Z EH SH AH N AH F IH SH AH L
+penalty-official P EH N AH L T IY AH F IH SH AH L
+blue-with-the-ball B L UW W IH DH DH AH B AO L
+blue-with-possession B L UW W IH DH P AH Z EH SH AH N
+possession-blue P AH Z EH SH AH N B L UW
+penalty-blue P EH N AH L T IY B L UW
+red-with-the-ball R EH D W IH DH DH AH B AO L
+red-with-possession R EH D W IH DH P AH Z EH SH AH N
+possession-red P AH Z EH SH AH N R EH D
+penalty-red P EH N AH L T IY R EH D
+white-with-the-ball W AY T W IH DH DH AH B AO L
+white-with-possession W AY T W IH DH P AH Z EH SH AH N
+possession-white P AH Z EH SH AH N W AY T
+penalty-white P EH N AH L T IY W AY T
+gold-with-the-ball G OW L D W IH DH DH AH B AO L
+gold-with-possession G OW L D W IH DH P AH Z EH SH AH N
+possession-gold P AH Z EH SH AH N G OW L D
+penalty-gold P EH N AH L T IY G OW L D
+yellow-with-the-ball Y EH L OW W IH DH DH AH B AO L
+yellow-with-possession Y EH L OW W IH DH P AH Z EH SH AH N
+possession-yellow P AH Z EH SH AH N Y EH L OW
+penalty-yellow P EH N AH L T IY Y EH L OW
+purple-with-the-ball P ER P AH L W IH DH DH AH B AO L
+purple-with-possession P ER P AH L W IH DH P AH Z EH SH AH N
+possession-purple P AH Z EH SH AH N P ER P AH L
+penalty-purple P EH N AH L T IY P ER P AH L
+green-with-the-ball G R IY N W IH DH DH AH B AO L
+green-with-possession G R IY N W IH DH P AH Z EH SH AH N
+possession-green P AH Z EH SH AH N G R IY N
+penalty-green P EH N AH L T IY G R IY N
+orange-with-the-ball AO R AH N JH W IH DH DH AH B AO L
+orange-with-possession AO R AH N JH W IH DH P AH Z EH SH AH N
+possession-orange P AH Z EH SH AH N AO R AH N JH
+penalty-orange P EH N AH L T IY AO R AH N JH
+silver-with-the-ball S IH L V ER W IH DH DH AH B AO L
+silver-with-possession S IH L V ER W IH DH P AH Z EH SH AH N
+possession-silver P AH Z EH SH AH N S IH L V ER
+penalty-silver P EH N AH L T IY S IH L V ER
+gray-with-the-ball G R EY W IH DH DH AH B AO L
+gray-with-possession G R EY W IH DH P AH Z EH SH AH N
+possession-gray P AH Z EH SH AH N G R EY
+penalty-gray P EH N AH L T IY G R EY
+black-with-the-ball B L AE K W IH DH DH AH B AO L
+black-with-possession B L AE K W IH DH P AH Z EH SH AH N
+possession-black P AH Z EH SH AH N B L AE K
+penalty-black P EH N AH L T IY B L AE K
+brown-with-the-ball B R AW N W IH DH DH AH B AO L
+brown-with-possession B R AW N W IH DH P AH Z EH SH AH N
+possession-brown P AH Z EH SH AH N B R AW N
+penalty-brown P EH N AH L T IY B R AW N
+maroon-with-the-ball M ER UW N W IH DH DH AH B AO L
+maroon-with-possession M ER UW N W IH DH P AH Z EH SH AH N
+possession-maroon P AH Z EH SH AH N M ER UW N
+penalty-maroon P EH N AH L T IY M ER UW N
+navy-with-the-ball N EY V IY W IH DH DH AH B AO L
+navy-with-possession N EY V IY W IH DH P AH Z EH SH AH N
+possession-navy P AH Z EH SH AH N N EY V IY
+penalty-navy P EH N AH L T IY N EY V IY
+on-the-plus-zero AA N DH AH P L AH S Z IH R OW
+on-the-plus-one AA N DH AH P L AH S W AH N
+on-the-plus-two AA N DH AH P L AH S T UW
+on-the-plus-three AA N DH AH P L AH S TH R IY
+on-the-plus-four AA N DH AH P L AH S F AO R
+on-the-plus-five AA N DH AH P L AH S F AY V
+on-the-plus-six AA N DH AH P L AH S S IH K S
+on-the-plus-seven AA N DH AH P L AH S S EH V AH N
+on-the-plus-eight AA N DH AH P L AH S EY T
+on-the-plus-nine AA N DH AH P L AH S N AY N
+on-the-plus-ten AA N DH AH P L AH S T EH N
+on-the-plus-eleven AA N DH AH P L AH S IH L EH V AH N
+on-the-plus-twelve AA N DH AH P L AH S T W EH L V
+on-the-plus-thirteen AA N DH AH P L AH S TH ER T IY N
+on-the-plus-fourteen AA N DH AH P L AH S F AO R T IY N
+on-the-plus-fifteen AA N DH AH P L AH S F IH F T IY N
+on-the-plus-sixteen AA N DH AH P L AH S S IH K S T IY N
+on-the-plus-seventeen AA N DH AH P L AH S S EH V AH N T IY N
+on-the-plus-eighteen AA N DH AH P L AH S EY T IY N
+on-the-plus-nineteen AA N DH AH P L AH S N AY N T IY N
+on-the-plus-twenty AA N DH AH P L AH S T W EH N T IY
+on-the-plus-twenty-one AA N DH AH P L AH S T W EH N T IY W AH N
+on-the-plus-twenty-two AA N DH AH P L AH S T W EH N T IY T UW
+on-the-plus-twenty-three AA N DH AH P L AH S T W EH N T IY TH R IY
+on-the-plus-twenty-four AA N DH AH P L AH S T W EH N T IY F AO R
+on-the-plus-twenty-five AA N DH AH P L AH S T W EH N T IY F AY V
+on-the-plus-twenty-six AA N DH AH P L AH S T W EH N T IY S IH K S
+on-the-plus-twenty-seven AA N DH AH P L AH S T W EH N T IY S EH V AH N
+on-the-plus-twenty-eight AA N DH AH P L AH S T W EH N T IY EY T
+on-the-plus-twenty-nine AA N DH AH P L AH S T W EH N T IY N AY N
+on-the-plus-thirty AA N DH AH P L AH S TH ER D IY
+on-the-plus-thirty-one AA N DH AH P L AH S TH ER D IY W AH N
+on-the-plus-thirty-two AA N DH AH P L AH S TH ER D IY T UW
+on-the-plus-thirty-three AA N DH AH P L AH S TH ER D IY TH R IY
+on-the-plus-thirty-four AA N DH AH P L AH S TH ER D IY F AO R
+on-the-plus-thirty-five AA N DH AH P L AH S TH ER D IY F AY V
+on-the-plus-thirty-six AA N DH AH P L AH S TH ER D IY S IH K S
+on-the-plus-thirty-seven AA N DH AH P L AH S TH ER D IY S EH V AH N
+on-the-plus-thirty-eight AA N DH AH P L AH S TH ER D IY EY T
+on-the-plus-thirty-nine AA N DH AH P L AH S TH ER D IY N AY N
+on-the-plus-forty AA N DH AH P L AH S F AO R T IY
+on-the-plus-forty-one AA N DH AH P L AH S F AO R T IY W AH N
+on-the-plus-forty-two AA N DH AH P L AH S F AO R T IY T UW
+on-the-plus-forty-three AA N DH AH P L AH S F AO R T IY TH R IY
+on-the-plus-forty-four AA N DH AH P L AH S F AO R T IY F AO R
+on-the-plus-forty-five AA N DH AH P L AH S F AO R T IY F AY V
+on-the-plus-forty-six AA N DH AH P L AH S F AO R T IY S IH K S
+on-the-plus-forty-seven AA N DH AH P L AH S F AO R T IY S EH V AH N
+on-the-plus-forty-eight AA N DH AH P L AH S F AO R T IY EY T
+on-the-plus-forty-nine AA N DH AH P L AH S F AO R T IY N AY N
+on-the-plus-fifty AA N DH AH P L AH S F IH F T IY
+on-the-minus-zero AA N DH AH M AY N AH S Z IH R OW
+on-the-minus-one AA N DH AH M AY N AH S W AH N
+on-the-minus-two AA N DH AH M AY N AH S T UW
+on-the-minus-three AA N DH AH M AY N AH S TH R IY
+on-the-minus-four AA N DH AH M AY N AH S F AO R
+on-the-minus-five AA N DH AH M AY N AH S F AY V
+on-the-minus-six AA N DH AH M AY N AH S S IH K S
+on-the-minus-seven AA N DH AH M AY N AH S S EH V AH N
+on-the-minus-eight AA N DH AH M AY N AH S EY T
+on-the-minus-nine AA N DH AH M AY N AH S N AY N
+on-the-minus-ten AA N DH AH M AY N AH S T EH N
+on-the-minus-eleven AA N DH AH M AY N AH S IH L EH V AH N
+on-the-minus-twelve AA N DH AH M AY N AH S T W EH L V
+on-the-minus-thirteen AA N DH AH M AY N AH S TH ER T IY N
+on-the-minus-fourteen AA N DH AH M AY N AH S F AO R T IY N
+on-the-minus-fifteen AA N DH AH M AY N AH S F IH F T IY N
+on-the-minus-sixteen AA N DH AH M AY N AH S S IH K S T IY N
+on-the-minus-seventeen AA N DH AH M AY N AH S S EH V AH N T IY N
+on-the-minus-eighteen AA N DH AH M AY N AH S EY T IY N
+on-the-minus-nineteen AA N DH AH M AY N AH S N AY N T IY N
+on-the-minus-twenty AA N DH AH M AY N AH S T W EH N T IY
+on-the-minus-twenty-one AA N DH AH M AY N AH S T W EH N T IY W AH N
+on-the-minus-twenty-two AA N DH AH M AY N AH S T W EH N T IY T UW
+on-the-minus-twenty-three AA N DH AH M AY N AH S T W EH N T IY TH R IY
+on-the-minus-twenty-four AA N DH AH M AY N AH S T W EH N T IY F AO R
+on-the-minus-twenty-five AA N DH AH M AY N AH S T W EH N T IY F AY V
+on-the-minus-twenty-six AA N DH AH M AY N AH S T W EH N T IY S IH K S
+on-the-minus-twenty-seven AA N DH AH M AY N AH S T W EH N T IY S EH V AH N
+on-the-minus-twenty-eight AA N DH AH M AY N AH S T W EH N T IY EY T
+on-the-minus-twenty-nine AA N DH AH M AY N AH S T W EH N T IY N AY N
+on-the-minus-thirty AA N DH AH M AY N AH S TH ER D IY
+on-the-minus-thirty-one AA N DH AH M AY N AH S TH ER D IY W AH N
+on-the-minus-thirty-two AA N DH AH M AY N AH S TH ER D IY T UW
+on-the-minus-thirty-three AA N DH AH M AY N AH S TH ER D IY TH R IY
+on-the-minus-thirty-four AA N DH AH M AY N AH S TH ER D IY F AO R
+on-the-minus-thirty-five AA N DH AH M AY N AH S TH ER D IY F AY V
+on-the-minus-thirty-six AA N DH AH M AY N AH S TH ER D IY S IH K S
+on-the-minus-thirty-seven AA N DH AH M AY N AH S TH ER D IY S EH V AH N
+on-the-minus-thirty-eight AA N DH AH M AY N AH S TH ER D IY EY T
+on-the-minus-thirty-nine AA N DH AH M AY N AH S TH ER D IY N AY N
+on-the-minus-forty AA N DH AH M AY N AH S F AO R T IY
+on-the-minus-forty-one AA N DH AH M AY N AH S F AO R T IY W AH N
+on-the-minus-forty-two AA N DH AH M AY N AH S F AO R T IY T UW
+on-the-minus-forty-three AA N DH AH M AY N AH S F AO R T IY TH R IY
+on-the-minus-forty-four AA N DH AH M AY N AH S F AO R T IY F AO R
+on-the-minus-forty-five AA N DH AH M AY N AH S F AO R T IY F AY V
+on-the-minus-forty-six AA N DH AH M AY N AH S F AO R T IY S IH K S
+on-the-minus-forty-seven AA N DH AH M AY N AH S F AO R T IY S EH V AH N
+on-the-minus-forty-eight AA N DH AH M AY N AH S F AO R T IY EY T
+on-the-minus-forty-nine AA N DH AH M AY N AH S F AO R T IY N AY N
+on-the-minus-fifty AA N DH AH M AY N AH S F IH F T IY
+first-down F ER S T D AW N
+second-down S EH K AH N D D AW N
+third-down TH ER D D AW N
+fourth-down F AO R TH D AW N
+with-zero-to-go W IH DH Z IH R OW T UW G OW
+with-one-to-go W IH DH W AH N T UW G OW
+with-two-to-go W IH DH T UW T UW G OW
+with-three-to-go W IH DH TH R IY T UW G OW
+with-four-to-go W IH DH F AO R T UW G OW
+with-five-to-go W IH DH F AY V T UW G OW
+with-six-to-go W IH DH S IH K S T UW G OW
+with-seven-to-go W IH DH S EH V AH N T UW G OW
+with-eight-to-go W IH DH EY T T UW G OW
+with-nine-to-go W IH DH N AY N T UW G OW
+with-ten-to-go W IH DH T EH N T UW G OW
+with-eleven-to-go W IH DH IH L EH V AH N T UW G OW
+with-twelve-to-go W IH DH T W EH L V T UW G OW
+with-thirteen-to-go W IH DH TH ER T IY N T UW G OW
+with-fourteen-to-go W IH DH F AO R T IY N T UW G OW
+with-fifteen-to-go W IH DH F IH F T IY N T UW G OW
+with-sixteen-to-go W IH DH S IH K S T IY N T UW G OW
+with-seventeen-to-go W IH DH S EH V AH N T IY N T UW G OW
+with-eighteen-to-go W IH DH EY T IY N T UW G OW
+with-nineteen-to-go W IH DH N AY N T IY N T UW G OW
+with-twenty-to-go W IH DH T W EH N T IY T UW G OW
+with-twenty-one-to-go W IH DH T W EH N T IY W AH N T UW G OW
+with-twenty-two-to-go W IH DH T W EH N T IY T UW T UW G OW
+with-twenty-three-to-go W IH DH T W EH N T IY TH R IY T UW G OW
+with-twenty-four-to-go W IH DH T W EH N T IY F AO R T UW G OW
+with-twenty-five-to-go W IH DH T W EH N T IY F AY V T UW G OW
+with-twenty-six-to-go W IH DH T W EH N T IY S IH K S T UW G OW
+with-twenty-seven-to-go W IH DH T W EH N T IY S EH V AH N T UW G OW
+with-twenty-eight-to-go W IH DH T W EH N T IY EY T T UW G OW
+with-twenty-nine-to-go W IH DH T W EH N T IY N AY N T UW G OW
+with-thirty-to-go W IH DH TH ER D IY T UW G OW
+with-thirty-one-to-go W IH DH TH ER D IY W AH N T UW G OW
+with-thirty-two-to-go W IH DH TH ER D IY T UW T UW G OW
+with-thirty-three-to-go W IH DH TH ER D IY TH R IY T UW G OW
+with-thirty-four-to-go W IH DH TH ER D IY F AO R T UW G OW
+with-thirty-five-to-go W IH DH TH ER D IY F AY V T UW G OW
+with-thirty-six-to-go W IH DH TH ER D IY S IH K S T UW G OW
+with-thirty-seven-to-go W IH DH TH ER D IY S EH V AH N T UW G OW
+with-thirty-eight-to-go W IH DH TH ER D IY EY T T UW G OW
+with-thirty-nine-to-go W IH DH TH ER D IY N AY N T UW G OW
+with-forty-to-go W IH DH F AO R T IY T UW G OW
+with-forty-one-to-go W IH DH F AO R T IY W AH N T UW G OW
+with-forty-two-to-go W IH DH F AO R T IY T UW T UW G OW
+with-forty-three-to-go W IH DH F AO R T IY TH R IY T UW G OW
+with-forty-four-to-go W IH DH F AO R T IY F AO R T UW G OW
+with-forty-five-to-go W IH DH F AO R T IY F AY V T UW G OW
+with-forty-six-to-go W IH DH F AO R T IY S IH K S T UW G OW
+with-forty-seven-to-go W IH DH F AO R T IY S EH V AH N T UW G OW
+with-forty-eight-to-go W IH DH F AO R T IY EY T T UW G OW
+with-forty-nine-to-go W IH DH F AO R T IY N AY N T UW G OW
+with-fifty-to-go W IH DH F IH F T IY T UW G OW
+with-fifty-one-to-go W IH DH F IH F T IY W AH N T UW G OW
+with-fifty-two-to-go W IH DH F IH F T IY T UW T UW G OW
+with-fifty-three-to-go W IH DH F IH F T IY TH R IY T UW G OW
+with-fifty-four-to-go W IH DH F IH F T IY F AO R T UW G OW
+with-fifty-five-to-go W IH DH F IH F T IY F AY V T UW G OW
+with-fifty-six-to-go W IH DH F IH F T IY S IH K S T UW G OW
+with-fifty-seven-to-go W IH DH F IH F T IY S EH V AH N T UW G OW
+with-fifty-eight-to-go W IH DH F IH F T IY EY T T UW G OW
+with-fifty-nine-to-go W IH DH F IH F T IY N AY N T UW G OW
+with-sixty-to-go W IH DH S IH K S T IY T UW G OW
+with-sixty-one-to-go W IH DH S IH K S T IY W AH N T UW G OW
+with-sixty-two-to-go W IH DH S IH K S T IY T UW T UW G OW
+with-sixty-three-to-go W IH DH S IH K S T IY TH R IY T UW G OW
+with-sixty-four-to-go W IH DH S IH K S T IY F AO R T UW G OW
+with-sixty-five-to-go W IH DH S IH K S T IY F AY V T UW G OW
+with-sixty-six-to-go W IH DH S IH K S T IY S IH K S T UW G OW
+with-sixty-seven-to-go W IH DH S IH K S T IY S EH V AH N T UW G OW
+with-sixty-eight-to-go W IH DH S IH K S T IY EY T T UW G OW
+with-sixty-nine-to-go W IH DH S IH K S T IY N AY N T UW G OW
+with-seventy-to-go W IH DH S EH V AH N T IY T UW G OW
+with-seventy-one-to-go W IH DH S EH V AH N T IY W AH N T UW G OW
+with-seventy-two-to-go W IH DH S EH V AH N T IY T UW T UW G OW
+with-seventy-three-to-go W IH DH S EH V AH N T IY TH R IY T UW G OW
+with-seventy-four-to-go W IH DH S EH V AH N T IY F AO R T UW G OW
+with-seventy-five-to-go W IH DH S EH V AH N T IY F AY V T UW G OW
+with-seventy-six-to-go W IH DH S EH V AH N T IY S IH K S T UW G OW
+with-seventy-seven-to-go W IH DH S EH V AH N T IY S EH V AH N T UW G OW
+with-seventy-eight-to-go W IH DH S EH V AH N T IY EY T T UW G OW
+with-seventy-nine-to-go W IH DH S EH V AH N T IY N AY N T UW G OW
+with-eighty-to-go W IH DH EY T IY T UW G OW
+with-eighty-one-to-go W IH DH EY T IY W AH N T UW G OW
+with-eighty-two-to-go W IH DH EY T IY T UW T UW G OW
+with-eighty-three-to-go W IH DH EY T IY TH R IY T UW G OW
+with-eighty-four-to-go W IH DH EY T IY F AO R T UW G OW
+with-eighty-five-to-go W IH DH EY T IY F AY V T UW G OW
+with-eighty-six-to-go W IH DH EY T IY S IH K S T UW G OW
+with-eighty-seven-to-go W IH DH EY T IY S EH V AH N T UW G OW
+with-eighty-eight-to-go W IH DH EY T IY EY T T UW G OW
+with-eighty-nine-to-go W IH DH EY T IY N AY N T UW G OW
+with-ninety-to-go W IH DH N AY N T IY T UW G OW
+with-ninety-one-to-go W IH DH N AY N T IY W AH N T UW G OW
+with-ninety-two-to-go W IH DH N AY N T IY T UW T UW G OW
+with-ninety-three-to-go W IH DH N AY N T IY TH R IY T UW G OW
+with-ninety-four-to-go W IH DH N AY N T IY F AO R T UW G OW
+with-ninety-five-to-go W IH DH N AY N T IY F AY V T UW G OW
+with-ninety-six-to-go W IH DH N AY N T IY S IH K S T UW G OW
+with-ninety-seven-to-go W IH DH N AY N T IY S EH V AH N T UW G OW
+with-ninety-eight-to-go W IH DH N AY N T IY EY T T UW G OW
+with-ninety-nine-to-go W IH DH N AY N T IY N AY N T UW G OW
+with-double-zero-to-go W IH DH D AH B AH L Z IH R OW T UW G OW
+huddle-break HH AH D AH L B R EY K
+lining-up-now L AY N IH NG AH P N AW
+ball-down B AO L D AW N
+snap S N AE P
+hike HH AY K
+snapped S N AE P T
+shotgun SH AA T G AH N
+shot-gun SH AA T G AH N
+under-center AH N D ER S EH N T ER
+run R AH N
+pass P AE S
+pitch P IH CH
+run-play R AH N P L EY
+pass-play P AE S P L EY
+pitch-play P IH CH P L EY
+hand-off HH AE N D AO F
+complete K AH M P L IY T
+completed K AH M P L IY T AH D
+incomplete IH N K AH M P L IY T
+in-complete IH N K AH M P L IY T
+tipped T IH P T
+deflected D IH F L EH K T IH D
+intercepted IH N T ER S EH P T AH D
+interception IH N T ER S EH P SH AH N
+tackle T AE K AH L
+tackled T AE K AH L D
+brought-down B R AO T D AW N
+stopped S T AA P T
+sacked S AE K T
+sack S AE K
+touchdown T AH CH D AW N
+touch-down T AH CH D AW N
+fieldgoal F IY L D G OW L
+field-goal F IY L D G OW L
+kick-off K IH K AO F
+kick K IH K
+kick-good K IH K G UH D
+kick-wide K IH K W AY D
+kick-blocked K IH K B L AA K T
+on-sides AA N S AY D Z
+punt P AH N T
+punted P AH N T ER D
+punt-good P AH N T G UH D
+punt-blocked P AH N T B L AA K T
+punt-fake P AH N T F EY K
+punt-faked P AH N T F EY K T
+fumble F AH M B AH L
+fumbled F AH M B AH L D
+recovered R AH K AH V ER D
+turn-over T ER N OW V ER
+turnover T ER N OW V ER
+flag-down F L AE G D AW N
+flag-on-the-play F L AE G AA N DH AH P L EY
+penalty P EH N AH L T IY
+holding HH OW L D IH NG
+false-start F AO L S S T AA R T
+encroachment EH N K R OW CH M AH N T
+helmet-to-helmet HH EH L M AH T T UW HH EH L M AH T
+off-sides AO F S AY D Z
+off-side AO F S AY D
+offside AO F S AY D
+offsides AO F S AY D
+pass-interference P AE S IH N T ER F IH R AH N S
+face-mask F EY S M AE S K
+unsportsmanlike-conduct AH N S P AO R T S M AH N L AY K K AA N D AH K T
+personal-foul P ER S IH N AH L F AW L
+roughing R AH F IH NG
+penalty-declined P EH N AH L T IY D IH K L AY N D

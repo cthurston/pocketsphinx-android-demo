@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> = complete | incomplete | out-of-bounds | tipped | intercepted | to-number ;
+
+public <digits> = <digit>+;

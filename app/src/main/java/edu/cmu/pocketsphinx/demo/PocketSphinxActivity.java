@@ -1,41 +1,11 @@
-/* ====================================================================
- * Copyright (c) 2014 Alpha Cephei Inc.  All rights reserved.
- *
- * Redistribution and use in source and binary forms, with or without
- * modification, are permitted provided that the following conditions
- * are met:
- *
- * 1. Redistributions of source code must retain the above copyright
- *    notice, this list of conditions and the following disclaimer.
- *
- * 2. Redistributions in binary form must reproduce the above copyright
- *    notice, this list of conditions and the following disclaimer in
- *    the documentation and/or other materials provided with the
- *    distribution.
- *
- * THIS SOFTWARE IS PROVIDED BY ALPHA CEPHEI INC. ``AS IS'' AND
- * ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
- * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
- * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL CARNEGIE MELLON UNIVERSITY
- * NOR ITS EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
- * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- * DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- * THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
- * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
- *
- * ====================================================================
- */
-
 package edu.cmu.pocketsphinx.demo;
+//package edu.cmu.pocketsphinx.demo.wear;
 
 import android.Manifest;
 import android.app.Activity;
 import android.content.pm.PackageManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.widget.TextView;
@@ -43,7 +13,6 @@ import android.widget.Toast;
 
 import java.io.File;
 import java.io.IOException;
-import java.lang.ref.WeakReference;
 import java.util.HashMap;
 
 import edu.cmu.pocketsphinx.Assets;
@@ -59,13 +28,27 @@ public class PocketSphinxActivity extends Activity implements
 
     /* Named searches allow to quickly reconfigure the decoder */
     private static final String KWS_SEARCH = "wakeup";
-    private static final String FORECAST_SEARCH = "forecast";
+    //    private static final String FORECAST_SEARCH = "forecast";
     private static final String DIGITS_SEARCH = "digits";
-    private static final String PHONE_SEARCH = "phones";
+    private static final String PLAY_SEARCH = "huddle-break";
+
+    private static final String TREE_HANDOFF = "hand-off";
+    private static final String TREE_PITCH = "pitch";
+    private static final String TREE_PASS = "pass";
+    private static final String TREE_RUN = "run";
+    private static final String TREE_KICK = "kick";
+    private static final String TREE_PUNT = "punt";
+    private static final String TREE_FUMBLED = "fumbled";
+    private static final String TREE_SACKED = "sacked";
+    private static final String TREE_PENALTY = "penalty";
+
+    private static final String TREE_NUMBERS = "to-number";
+    //    private static final String PHONE_SEARCH = "phones";
     private static final String MENU_SEARCH = "menu";
 
+
     /* Keyword we are looking for to activate menu */
-    private static final String KEYPHRASE = "oh mighty computer";
+    private static final String KEYPHRASE = "flag football";
 
     /* Used to handle permission request */
     private static final int PERMISSIONS_REQUEST_RECORD_AUDIO = 1;
@@ -78,14 +61,26 @@ public class PocketSphinxActivity extends Activity implements
         super.onCreate(state);
 
         // Prepare the data for UI
-        captions = new HashMap<>();
+        captions = new HashMap<String, Integer>();
         captions.put(KWS_SEARCH, R.string.kws_caption);
         captions.put(MENU_SEARCH, R.string.menu_caption);
         captions.put(DIGITS_SEARCH, R.string.digits_caption);
-        captions.put(PHONE_SEARCH, R.string.phone_caption);
-        captions.put(FORECAST_SEARCH, R.string.forecast_caption);
+        captions.put(PLAY_SEARCH, R.string.play_caption);
+
+        captions.put(TREE_FUMBLED, R.string.fumbled_caption);
+        captions.put(TREE_HANDOFF, R.string.handoff_caption);
+        captions.put(TREE_KICK, R.string.kick_caption);
+        captions.put(TREE_PASS, R.string.pass_caption);
+        captions.put(TREE_PENALTY, R.string.penalty_caption);
+        captions.put(TREE_PITCH, R.string.pitch_caption);
+        captions.put(TREE_PUNT, R.string.punt_caption);
+        captions.put(TREE_RUN, R.string.run_caption);
+        captions.put(TREE_SACKED, R.string.sacked_caption);
+        captions.put(TREE_NUMBERS, R.string.numbers_caption);
+//        captions.put(PHONE_SEARCH, R.string.phone_caption);
+//        captions.put(FORECAST_SEARCH, R.string.forecast_caption);
         setContentView(R.layout.main);
-        ((TextView) findViewById(R.id.caption_text))
+        ((TextView) findViewById(edu.cmu.pocketsphinx.demo.R.id.caption_text))
                 .setText("Preparing the recognizer");
 
         // Check if user has given permission to record audio
@@ -94,48 +89,45 @@ public class PocketSphinxActivity extends Activity implements
             ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.RECORD_AUDIO}, PERMISSIONS_REQUEST_RECORD_AUDIO);
             return;
         }
-        // Recognizer initialization is a time-consuming and it involves IO,
-        // so we execute it in async task
-        new SetupTask(this).execute();
+        runRecognizerSetup();
     }
 
-    private static class SetupTask extends AsyncTask<Void, Void, Exception> {
-        WeakReference<PocketSphinxActivity> activityReference;
-        SetupTask(PocketSphinxActivity activity) {
-            this.activityReference = new WeakReference<>(activity);
-        }
-        @Override
-        protected Exception doInBackground(Void... params) {
-            try {
-                Assets assets = new Assets(activityReference.get());
-                File assetDir = assets.syncAssets();
-                activityReference.get().setupRecognizer(assetDir);
-            } catch (IOException e) {
-                return e;
+    private void runRecognizerSetup() {
+        // Recognizer initialization is a time-consuming and it involves IO,
+        // so we execute it in async task
+        new AsyncTask<Void, Void, Exception>() {
+            @Override
+            protected Exception doInBackground(Void... params) {
+                try {
+                    Assets assets = new Assets(PocketSphinxActivity.this);
+                    File assetDir = assets.syncAssets();
+                    setupRecognizer(assetDir);
+                } catch (IOException e) {
+                    return e;
+                }
+                return null;
             }
-            return null;
-        }
-        @Override
-        protected void onPostExecute(Exception result) {
-            if (result != null) {
-                ((TextView) activityReference.get().findViewById(R.id.caption_text))
-                        .setText("Failed to init recognizer " + result);
-            } else {
-                activityReference.get().switchSearch(KWS_SEARCH);
+
+            @Override
+            protected void onPostExecute(Exception result) {
+                if (result != null) {
+                    ((TextView) findViewById(R.id.caption_text))
+                            .setText("Failed to init recognizer " + result);
+                } else {
+                    switchSearch(KWS_SEARCH);
+                }
             }
-        }
+        }.execute();
     }
 
     @Override
     public void onRequestPermissionsResult(int requestCode,
-                                           @NonNull String[] permissions, @NonNull  int[] grantResults) {
+                                           String[] permissions, int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
 
         if (requestCode == PERMISSIONS_REQUEST_RECORD_AUDIO) {
             if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                // Recognizer initialization is a time-consuming and it involves IO,
-                // so we execute it in async task
-                new SetupTask(this).execute();
+                runRecognizerSetup();
             } else {
                 finish();
             }
@@ -165,12 +157,30 @@ public class PocketSphinxActivity extends Activity implements
         String text = hypothesis.getHypstr();
         if (text.equals(KEYPHRASE))
             switchSearch(MENU_SEARCH);
+
         else if (text.equals(DIGITS_SEARCH))
             switchSearch(DIGITS_SEARCH);
-        else if (text.equals(PHONE_SEARCH))
-            switchSearch(PHONE_SEARCH);
-        else if (text.equals(FORECAST_SEARCH))
-            switchSearch(FORECAST_SEARCH);
+//        else if (text.equals(PLAY_SEARCH))
+//            switchSearch(PLAY_SEARCH);
+
+        else if (text.equals(TREE_HANDOFF)) switchSearch(TREE_HANDOFF);
+        else if (text.equals(TREE_PITCH)) switchSearch(TREE_PITCH);
+        else if (text.equals(TREE_PASS)) switchSearch(TREE_PASS);
+        else if (text.equals(TREE_RUN)) switchSearch(TREE_RUN);
+        else if (text.equals(TREE_KICK)) switchSearch(TREE_KICK);
+        else if (text.equals(TREE_PUNT)) switchSearch(TREE_PUNT);
+        else if (text.equals(TREE_FUMBLED)) switchSearch(TREE_FUMBLED);
+        else if (text.equals(TREE_SACKED)) switchSearch(TREE_SACKED);
+        else if (text.equals(TREE_PENALTY)) switchSearch(TREE_PENALTY);
+
+        else if (text.contains(TREE_NUMBERS)) switchSearch(TREE_NUMBERS);
+        else if (text.contains("huddle-break")) switchSearch(MENU_SEARCH);
+
+
+//        else if (text.equals(PHONE_SEARCH))
+//            switchSearch(PHONE_SEARCH);
+//        else if (text.equals(FORECAST_SEARCH))
+//            switchSearch(FORECAST_SEARCH);
         else
             ((TextView) findViewById(R.id.result_text)).setText(text);
     }
@@ -183,6 +193,7 @@ public class PocketSphinxActivity extends Activity implements
         ((TextView) findViewById(R.id.result_text)).setText("");
         if (hypothesis != null) {
             String text = hypothesis.getHypstr();
+//            String prob = String.valueOf(hypothesis.getProb());
             makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
         }
     }
@@ -196,8 +207,8 @@ public class PocketSphinxActivity extends Activity implements
      */
     @Override
     public void onEndOfSpeech() {
-        if (!recognizer.getSearchName().equals(KWS_SEARCH))
-            switchSearch(KWS_SEARCH);
+//        if (!recognizer.getSearchName().equals(KWS_SEARCH))
+//            switchSearch(KWS_SEARCH);
     }
 
     private void switchSearch(String searchName) {
@@ -207,7 +218,7 @@ public class PocketSphinxActivity extends Activity implements
         if (searchName.equals(KWS_SEARCH))
             recognizer.startListening(searchName);
         else
-            recognizer.startListening(searchName, 10000);
+            recognizer.startListening(searchName, 20000);
 
         String caption = getResources().getString(captions.get(searchName));
         ((TextView) findViewById(R.id.caption_text)).setText(caption);
@@ -219,15 +230,16 @@ public class PocketSphinxActivity extends Activity implements
 
         recognizer = SpeechRecognizerSetup.defaultSetup()
                 .setAcousticModel(new File(assetsDir, "en-us-ptm"))
-                .setDictionary(new File(assetsDir, "cmudict-en-us.dict"))
+//                .setDictionary(new File(assetsDir, "cmudict-en-us.dict"))
+                .setDictionary(new File(assetsDir, "flag-football-en-us.dict"))
 
                 .setRawLogDir(assetsDir) // To disable logging of raw audio comment out this call (takes a lot of space on the device)
 
                 .getRecognizer();
         recognizer.addListener(this);
 
-        /* In your application you might not need to add all those searches.
-          They are added here for demonstration. You can leave just one.
+        /** In your application you might not need to add all those searches.
+         * They are added here for demonstration. You can leave just one.
          */
 
         // Create keyword-activation search.
@@ -241,13 +253,26 @@ public class PocketSphinxActivity extends Activity implements
         File digitsGrammar = new File(assetsDir, "digits.gram");
         recognizer.addGrammarSearch(DIGITS_SEARCH, digitsGrammar);
 
+        // Create grammar-based search for digit recognition
+//        File flagFootballGrammar = new File(assetsDir, "flag-football.gram");
+//        recognizer.addGrammarSearch(PLAY_SEARCH, flagFootballGrammar);
+
+        File flagFootballPass = new File(assetsDir, "flag-football-pass.gram");
+        recognizer.addGrammarSearch(TREE_PASS, flagFootballPass);
+
+        File flagFootballHandoff = new File(assetsDir, "flag-football-handoff.gram");
+        recognizer.addGrammarSearch(TREE_HANDOFF, flagFootballHandoff);
+
+        File flagFootballNumbers = new File(assetsDir, "flag-football-numbers.gram");
+        recognizer.addGrammarSearch(TREE_NUMBERS, flagFootballNumbers);
+
         // Create language model search
-        File languageModel = new File(assetsDir, "weather.dmp");
-        recognizer.addNgramSearch(FORECAST_SEARCH, languageModel);
+//        File languageModel = new File(assetsDir, "weather.dmp");
+//        recognizer.addNgramSearch(FORECAST_SEARCH, languageModel);
 
         // Phonetic search
-        File phoneticModel = new File(assetsDir, "en-phone.dmp");
-        recognizer.addAllphoneSearch(PHONE_SEARCH, phoneticModel);
+//        File phoneticModel = new File(assetsDir, "en-phone.dmp");
+//        recognizer.addAllphoneSearch(PHONE_SEARCH, phoneticModel);
     }
 
     @Override

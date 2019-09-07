@@ -1,0 +1,17 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> = one |
+two |
+three |
+ten |
+eleven |
+twelve |
+seven |
+seventeen |
+eighteen |
+huddle-break
+;
+
+public <digits> = <digit>+;
